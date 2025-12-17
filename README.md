@@ -78,7 +78,7 @@ A continuación se muestran algunas capturas representativas del proyecto, donde
 Este proyecto se basa en una plantilla creada por **HTML Codex** y está licenciado bajo la  
 **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
-El archivo LICENSE.txt contiene los términos completos de la licencia original.
+El archivo [LICENSE](LICENSE) contiene los términos completos de la licencia original.
 
 ## 🙏 Créditos
 Este proyecto está basado en la plantilla:
