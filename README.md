@@ -1,4 +1,4 @@
-# St Joseph's – Pastelería Web
+# 🧁 St Joseph's – Pastelería Web
 
 Proyecto web de una pastelería ficticia llamada **St Joseph's**, desarrollado como práctica de frontend a partir de una plantilla HTML base, la cual ha sido personalizada y adaptada en diseño, estructura y contenidos.
 
@@ -44,34 +44,46 @@ El objetivo del proyecto es consolidar buenas prácticas en el desarrollo fronte
 A continuación se muestran algunas capturas representativas del proyecto, donde se aprecia el diseño general, la estructura de la página y los principales componentes de la interfaz.
 
 ### Página principal
-![Vista general de la página principal](img/screenshots/home.png)
+![Vista general de la página principal](<img width="1067" height="593" alt="image" src="https://github.com/user-attachments/assets/de39ce3d-4291-4a89-9aae-ce58e7ea83e0" />
+)
 
 ### Sección Menú
-![Sección de productos y precios](img/screenshots/menu.png)
+![Sección de productos y precios](<img width="1065" height="592" alt="image" src="https://github.com/user-attachments/assets/8f6b2667-efc8-4312-b82f-e8f86d0b8a75" />
+)
 
 ### Sección Equipo
-![Sección del equipo de pasteleros](img/screenshots/team.png)
+![Sección del equipo de pasteleros](<img width="1067" height="590" alt="image" src="https://github.com/user-attachments/assets/8ed013e0-3205-43d1-b6cd-cb2b45bc0049" />
+)
 
 ### Sección Testimonios
-![Sección de testimonios](img/screenshots/testimonials.png)
+![Sección de testimonios](<img width="1067" height="583" alt="image" src="https://github.com/user-attachments/assets/4fb3c96d-eb20-4400-9e0e-5f9437d1e4b4" />
+)
 
 
 ## 📂 Estructura del Proyecto
 /
 ├── index.html
+
 ├── header.html
+
 ├── footer.html
+
 ├── css/
 │ ├── bootstrap.min.css
 │ └── style.css
+
 ├── js/
 │ ├── main.js
 │ └── include.js
+
 ├── img/
 ├── lib/
 │ └── (librerías externas)
+
 ├── LICENSE.txt
-└── README.md
+
+## 🚀 Demo en vivo:
+[Ver proyecto en Vercel](https://gifsearcherconangular.vercel.app)
 
 ## 📄 Licencia
 
