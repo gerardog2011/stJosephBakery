@@ -81,7 +81,7 @@ A continuación se muestran algunas capturas representativas del proyecto, donde
 ├── LICENSE.txt
 
 ## 🚀 Demo en vivo:
-[Ver proyecto en Vercel](https://gifsearcherconangular.vercel.app)
+[Ver proyecto en Vercel](https://stjosephbakery.vercel.app/)
 
 ## 📄 Licencia
 
